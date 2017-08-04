@@ -14,4 +14,3 @@ RUN bundle install
 
 ADD . /meu-professor
 
-EXPOSE 3000
