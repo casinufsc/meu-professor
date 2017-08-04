@@ -10,7 +10,8 @@ Feito por alunos do curso de Sistemas de Informação - UFSC
 git clone git@github.com:casinufsc/meu-professor.git
 ```
 
-* Utilizando Docker e Docker Compose
+## Utilizando Docker e Docker Compose
+[Instale o Docker junto com o Docker Compose em sua máquina](https://docs.docker.com/compose/install/)
 
 Navegue no terminal até a pasta em que você clonou o projeto do GitHub
 
