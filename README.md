@@ -1,2 +1,3 @@
-# meu-professor
-Sistemas de coleta de feedback e avaliação de professores. Sistemas de Informação - UFSC
+# Meu Professor
+Sistemas de coleta de feedback e avaliação de professores.
+Feito por alunos do curso de Sistemas de Informação - UFSC
