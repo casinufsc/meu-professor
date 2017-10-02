@@ -1,27 +1,24 @@
-# Meu Professor
-Sistemas de coleta de feedback e avaliação de professores.
-Feito por alunos do curso de Sistemas de Informação - UFSC
+# README
 
-# Subindo a aplicação
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-## Baixando o projeto
-* Clone o projeto em sua máquina
-```
-git clone git@github.com:casinufsc/meu-professor.git
-```
+Things you may want to cover:
 
-## Utilizando Docker e Docker Compose
-[Instale o Docker junto com o Docker Compose em sua máquina](https://docs.docker.com/compose/install/)
+* Ruby version
 
-Navegue no terminal até a pasta em que você clonou o projeto do GitHub
+* System dependencies
 
-Execute os seguintes comandos:
+* Configuration
 
-```bash
-docker-compose build
-docker-compose up
-docker-compose run web rake db:create
-```
+* Database creation
 
-Depois dos comandos executados você terá a aplicação disponível na página http://localhost:3000 
+* Database initialization
 
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
