@@ -103,8 +103,10 @@ ActiveRecord::Schema.define(version: 20171005232309) do
     t.integer "situation"
     t.string "email"
     t.integer "role", default: 0
+    t.integer "subject_id", null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.index ["subject_id"], name: "index_users_on_subject_id"
   end
 
 end
